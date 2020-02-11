@@ -1,1 +1,5 @@
-def es_perfecto
+def es_perfecto(num):
+
+
+#Probador
+print(es_perfecto())
