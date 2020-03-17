@@ -14,4 +14,4 @@ def es_perfecto(num):
 
 
 #Probador
-print(es_perfecto(8128))
+#print(es_perfecto(8128))

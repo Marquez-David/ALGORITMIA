@@ -14,4 +14,4 @@ def es_primo(num):
         primo = False
     return primo
 
-print(es_primo(1))
+#print(es_primo(1))

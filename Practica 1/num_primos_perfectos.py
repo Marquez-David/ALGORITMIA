@@ -19,3 +19,6 @@ def num_prim_perf(num):
             
 
 print(num_prim_perf(8))
+
+
+
