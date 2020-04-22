@@ -6,6 +6,7 @@
 package ejercicio3;
 
 import java.util.Arrays;
+import java.util.HashMap;
 
 /**
  *
@@ -34,9 +35,9 @@ public class Ejercicio3 {
                 }
             }
         }
+        
     }
-
-
+    
     public static int[][] devolverCambio(int[] billetes, int cambio) {
         int[][] matriz = new int[billetes.length][cambio + 1];
 
@@ -60,5 +61,7 @@ public class Ejercicio3 {
 
         return matriz;
     }
+    
+    
 
 }
