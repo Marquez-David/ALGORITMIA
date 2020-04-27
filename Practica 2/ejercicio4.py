@@ -1,5 +1,9 @@
 def prim(matriz_distancias):
-    
+    """
+    list -> list
+    PRE: len(lista) == len(lista(i))
+    OBJ: recorrer el arbol por el camino mas corto
+    """
     num_nodos = len(matriz_distancias) #numero de nodos quu hay en el grafo
     arbol_final = []
     mas_proximo = [0]  * num_nodos #almacenara que nodo del arbol es mas proximo es mas proximo a un cierto nodo

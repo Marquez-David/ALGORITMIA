@@ -16,7 +16,7 @@ def calcularPromedio(longitudes, peticiones):
     lista_factores = [] #Creamos una lista que contendra los factores de cada fichero
     
     for i in range(len(longitudes)):
-        factor = longitudes[i]/peticiones[i]
+        factor = longitudes[i]/peticiones[i] #calculamos el facor de cada fichero
         lista_factores.append(factor)
         
     return lista_factores
