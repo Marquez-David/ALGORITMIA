@@ -1,0 +1,3 @@
+El numero de grupos es: 2
+Los integrantes de dada grupos son: [[a, b, c, e], [d, f]]
+El grado de conexion de este grupo de personas es: 0.33333334

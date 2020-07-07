@@ -1,0 +1,6 @@
+[3,0] movimiento hacia arriba
+[2,0] movimiento hacia la derecha
+[2,1] movimiento hacia la derecha
+[2,2] movimiento hacia arriba
+[1,2] movimiento hacia arriba
+[0,2] movimiento hacia la derecha
